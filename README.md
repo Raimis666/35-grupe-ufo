@@ -21,4 +21,4 @@ Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mo
 
 ## Authors
 
-Raimis: [Github](https://github.com/belauzas)
+Raimis: [Github](https://github.com/Raimis666)
