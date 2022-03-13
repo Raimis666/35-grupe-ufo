@@ -10,7 +10,7 @@ _35 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/35-grupe-ufo/
+Site published at: https://github.com/Raimis666/35-grupe-ufo/blob/master/UFO.jpg
 
 Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
 
